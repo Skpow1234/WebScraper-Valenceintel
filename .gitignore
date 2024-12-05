@@ -1,0 +1,9 @@
+
+# Node.js dependencies
+node_modules/
+# Build output
+dist/
+# Log files
+errors.log
+# Generated CSV files
+product_data.csv
