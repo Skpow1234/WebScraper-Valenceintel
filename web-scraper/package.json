@@ -1,9 +1,9 @@
 {
   "name": "web-scraper",
   "version": "1.0.0",
-  "main": "dist/index.js",
+  "main": "dist/scraper.js",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "node dist/scraper.js",
     "test": "jest"
   },
   "keywords": [],
